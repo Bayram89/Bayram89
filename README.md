@@ -22,6 +22,9 @@ I’m Bayram, a junior full-stack developer based in Denmark. Before moving into
 ### Tech Stack
 React • Node.js • TypeScript • JavaScript • Express • MySQL • REST APIs • Git
 
+### Portfolio
+🌐 https://bayram-portfolio-3.netlify.app/
+
 ### Reach me at
 - LinkedIn: linkedin.com/in/bayramerdem
 - Email: bayram9erdem@gmail.com
