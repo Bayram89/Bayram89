@@ -14,6 +14,7 @@ I’m Bayram, a junior full-stack developer based in Denmark. Before moving into
 ### Education & Certifications
 - Elements of AI for Business — University of Helsinki
 - Programming with JavaScript — Meta
+- Agile Project Management — Google
 - Full-Stack Software Development — HackYourFuture Denmark
 
 ### Ask me about
