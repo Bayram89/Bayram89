@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Bayram, a junior full-stack developer based in Denmark. Before moving into tech, I spent years working directly with people, which gave me a real understanding of communication, trust and how businesses actually run. Today I enjoy building digital products that feel practical, simple and useful in real life.
+I’m Bayram, a full-stack developer based in Denmark. Before moving into tech, I spent years working directly with people, which gave me a real understanding of communication, trust and how businesses actually run. Today I enjoy building digital products that feel practical, simple and useful in real life.
 
 ### Currently Building
 - PetPass — Digital pet passport platform
