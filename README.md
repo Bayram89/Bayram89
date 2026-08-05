@@ -52,11 +52,3 @@ Python • Flask • JavaScript • TypeScript • Node.js • Express • React
 
 - [LinkedIn](https://www.linkedin.com/in/bayramerdem/)
 - Email: `bayram9erdem@gmail.com`
-
-### Education & Certifications
-- Elements of AI for Business — University of Helsinki
-- Programming with JavaScript — Meta
-- IBM IT Project Manager
-- Connected Leadership — Yale Online
-- Agile Project Management — Google
-- Full-Stack Software Development — HackYourFuture Denmark
