@@ -42,7 +42,7 @@ Python • Flask • JavaScript • TypeScript • Node.js • Express • React
 - Elements of AI for Business — University of Helsinki
 - Connected Leadership — Yale Online
 - Agile Project Management — Google
-- CS50's Introduction to Programming with Python at HarvardX
+- CS50's Introduction to Programming with Python — HarvardX
 
 ## Portfolio
 
