@@ -1,15 +1,57 @@
-## Hi there 👋
+# Hi, I’m Bayram 👋
 
-I’m Bayram, a full-stack developer based in Denmark. Before moving into tech, I spent years working directly with people, which gave me a real understanding of communication, trust and how businesses actually run. Today I enjoy building digital products that feel practical, simple and useful in real life.
+I’m a junior software developer based in Copenhagen with a full-stack background and a growing focus on backend development. I enjoy building practical tools that solve real problems and make people’s work easier.
 
-### Currently Building
-- PetPass — Digital pet passport platform
-- Full-stack web applications with React & Node.js
+Before moving into tech, I worked closely with people and coordinated teams. That experience helps me communicate clearly, collaborate with different stakeholders and approach my work with responsibility.
 
-### Currently Learning
-- AI workflows and LLM integrations
-- Backend architecture and APIs
-- Product thinking and user experience
+## Current focus
+
+- Building Python applications with Flask and REST APIs
+- Improving my backend development and testing skills
+- Learning more about database-backed applications
+- Continuing work on practical full-stack projects
+
+## Featured projects
+
+### Job Application Tracker
+
+A Python application with a command-line interface, JSON persistence, Flask REST API and pytest tests.
+
+[View the repository](https://github.com/Bayram89/job-application-tracker)
+
+### Recipe Cost Calculator
+
+A Python command-line tool that calculates ingredient usage costs, total recipe cost and cost per portion.
+
+[View the repository](https://github.com/Bayram89/recipe-cost-calculator)
+
+### PetPass
+
+A full-stack digital pet passport with Google authentication, pet profiles, vaccination records and an admin dashboard.
+
+[View the repository](https://github.com/Bayram89/PetPass2026)
+
+## Tech stack
+
+Python • Flask • JavaScript • TypeScript • Node.js • Express • React • PostgreSQL • MySQL • REST APIs • Git
+
+## Education & Certifications
+
+- Full-Stack Software Development — HackYourFuture Denmark
+- Programming with JavaScript — Meta
+- Elements of AI for Business — University of Helsinki
+- Connected Leadership — Yale Online
+- Agile Project Management — Google
+- CS50's Introduction to Programming with Python at HarvardX
+
+## Portfolio
+
+[bayram-portfolio.netlify.app](https://bayram-portfolio.netlify.app/)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/bayramerdem/)
+- Email: `bayram9erdem@gmail.com`
 
 ### Education & Certifications
 - Elements of AI for Business — University of Helsinki
@@ -18,31 +60,3 @@ I’m Bayram, a full-stack developer based in Denmark. Before moving into tech, 
 - Connected Leadership — Yale Online
 - Agile Project Management — Google
 - Full-Stack Software Development — HackYourFuture Denmark
-
-### Ask me about
-- Why trust matters in both tech and business
-
-### Tech Stack
-React • Node.js • TypeScript • JavaScript • Express • MySQL • REST APIs • Git
-
-### Portfolio
-🌐 https://bayram-portfolio.netlify.app/
-
-### Reach me at
-- LinkedIn: https://www.linkedin.com/in/bayramerdem/
-- Email: bayram9erdem@gmail.com
-
-<!--
-**Bayram89/Bayram89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
