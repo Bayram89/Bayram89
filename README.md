@@ -46,9 +46,9 @@ Python • Flask • JavaScript • TypeScript • Node.js • Express • React
 
 ## Portfolio
 
-[bayram-portfolio.netlify.app](https://bayram-portfolio.netlify.app/)
+🌐 [bayram-portfolio.netlify.app](https://bayram-portfolio.netlify.app/)
 
-## Contact
+## Reach me at
 
-- [LinkedIn](https://www.linkedin.com/in/bayramerdem/)
-- Email: `bayram9erdem@gmail.com`
+- LinkedIn: (https://www.linkedin.com/in/bayramerdem/)
+- Email: bayram9erdem@gmail.com
